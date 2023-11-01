@@ -79,3 +79,13 @@ body {
     color: white;
     padding: 10px 0;
 }
+.social-icons {
+    margin-top: 10px;
+}
+
+.icon {
+    font-size: 24px;
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+}
